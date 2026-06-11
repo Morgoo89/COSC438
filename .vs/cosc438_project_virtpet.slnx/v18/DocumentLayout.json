@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
@@ -51,8 +51,7 @@
               "RelativeToolTip": "cosc438_project_virtpet\\cosc438_project_virtpet.rc",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-06-09T01:44:39.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T01:44:39.513Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "cosc438_project_virtpet\\Resource.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-09T01:44:30.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T01:44:30.494Z"
             }
           ]
         }
